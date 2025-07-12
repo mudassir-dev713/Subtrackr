@@ -1,0 +1,25 @@
+{
+  "name": "SubTrackr",
+  "short_name": "SubTrackr",
+  "description": "Subscription management platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["productivity", "finance"],
+  "lang": "en",
+  "dir": "ltr"
+}
